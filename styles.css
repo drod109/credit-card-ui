@@ -1,0 +1,98 @@
+@font-face {
+    font-family: "OCR-B";
+    src: url(https://cdn.jsdelivr.net/gh/raisty/OCR-B/dist/OCR-B.ttf) format("truetype"),
+         url(https://cdn.jsdelivr.net/gh/raisty/OCR-B/dist/OCR-B.otf) format("opentype");
+  }
+
+@font-face {
+    font-family: Passageway;
+    src: url('https://fonts.cdnfonts.com/css/passageway');
+}
+
+* {
+    box-sizing: border-box;
+    padding-inline: 0;
+    margin-inline: 0;
+    font-family: Poppins, system-ui;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #ececec;
+    margin: 0;
+    z-index: 1;
+}
+header h4 {
+    font-size: 1.3rem;
+    font-weight: 600;
+    letter-spacing: -0.5px;
+    color: #fff;
+}
+.logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: -5px;
+}
+.chip {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 2;
+}
+.card-number {
+    display: flex;
+    font-weight: 800;
+    justify-content: center;
+    align-items: center;
+    margin: -28px;
+}
+.visa {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0px 0px 0px;
+}
+header h5 {
+    font-family: OCR-B;
+    font-size: 1.1rem;
+    letter-spacing: 2px;
+    color: #FFF;
+}
+.container {
+    position: relative;
+    background-color: rgb(129, 128, 128);
+    max-width: 380px;
+    height: 220px;
+    width: 100%;
+    padding: 0px 25px 0px 25px;
+    border-radius: 9px;
+    box-shadow: 0px 5px 15px rgba(0 0 0 / 35%);
+}
+.card-expiry {
+    font-family: OCR-B;
+    font-size: 8px;
+    color: #fff;
+}
+.card-expiry-date {
+    font-family: OCR-B;
+    font-size: 12px;
+    font-weight: 800;
+    color: #fff;
+    margin-right: 140px;
+}
+#td-logo {
+    width: 48px;
+    margin-left: 4px;
+}
+#chip-icon {
+    width: 48px;
+}
+#tap-icon {
+    width: 30px;
+}
+#visa-logo {
+    width: 90px;
+}
