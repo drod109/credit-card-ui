@@ -7,7 +7,6 @@ The goal with this project was to recreate the UI after a friend showed me his o
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
 
@@ -15,17 +14,13 @@ The goal with this project was to recreate the UI after a friend showed me his o
 
 ### Screenshot
 
-![Contact Us](https://i.postimg.cc/25P9r73S/Screenshot-2024-01-01-075944.png)
+![Credit Card UI](https://i.postimg.cc/L6hT840b/Screenshot-2024-01-01-085050.png)
 
 ### Links
 
-- Code Repo: [Github](https://github.com/drod109/contact-us)
-- Live Site 1 URL: [QR Code Component | Live Preview](https://drod109.github.io/contact-us/)
-- Live Site 2 URL: [QR Code Component | Live Preview](https://codepen.io/drodrigues/pen/YzBmdWd)
-
-## My process
-
-I took my inspiration from [CoddingNepalWeb's](https://www.youtube.com/watch?v=eUMqJMkwOBY) video. I want to see if I could duplicate the design pattern after viewing the video a single time. This was a little more challenging because I didn't use a screenshot during this coding and styling session which did add more time to the completion but I was worth it.
+- Code Repo: [Github](https://github.com/drod109/credit-card-ui)
+- Live Site 1 URL: [QR Code Component | Live Preview](https://drod109.github.io/credit-card-ui/)
+- Live Site 2 URL: [QR Code Component | Live Preview](https://codepen.io/drodrigues/full/dyaBJYa)
 
 ### Built with
 
